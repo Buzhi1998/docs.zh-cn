@@ -158,7 +158,7 @@ Visual Basic 命令行编译器现在支持 [-refout](../reference/command-line-
 
 ## <a name="visual-basic-2017"></a>Visual Basic 2017
 
-[**元祖**](../programming-guide/language-features/data-types/tuples.md)
+[**元组**](../programming-guide/language-features/data-types/tuples.md)
 
 元组是一种轻量级数据结构，通常用于从单个方法调用返回多个值。 一般情况下，若要从方法返回多个值，必须执行以下操作之一：
 
